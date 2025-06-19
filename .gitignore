@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+policy_env/
+
+# Chroma vector store (generated DB and index files)
+policy_chroma/
+
+# Local policy PDF data (do not track large data files)
+public_policies - Copy/
+
+# Environment variables
+.env
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Git directory (should not be tracked if .gitignore is in a subfolder)
+.git/ 
