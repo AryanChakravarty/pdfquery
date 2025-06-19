@@ -1,0 +1,12 @@
+rouge-score==0.1.2
+nltk==3.8.1
+scikit-learn==1.3.2
+matplotlib==3.8.2
+seaborn==0.13.0
+textstat==0.7.3
+pandas==2.1.3
+numpy==1.24.3
+torch==2.1.2
+transformers==4.36.2
+sentence-transformers==2.3.0
+--extra-index-url https://download.pytorch.org/whl/cu118 
